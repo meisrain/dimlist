@@ -1,1 +1,7 @@
+title:This is just a list of rains community friends that wanted a personal Wishlist
+description:Thanks to all Jims that help out
 
+//Eysaluna (PvE Rain's picks)
+//notes:Masterwork handling, richochet for more range, and an outlaw perk for a gun built for precision kills makes for a fun feedback loop. High Cal loses some stability but who really cares!
+dimwishlist:item=235827225&perks=1926090094,1885400500,1168162263,124408337,186337601
+dimwishlist:item=235827225&perks=1926090094,1561002382,1168162263,124408337,186337601
