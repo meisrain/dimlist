@@ -4,7 +4,7 @@
 First you need to go into your DIM settings and find "Wish List". Add the following link under "Supply url(s) for wish list".   
 https://raw.githubusercontent.com/meisrain/dimlist/main/list.txt
 
-[!Add Wishlist Image](https://github.com/meisrain/dimlist/blob/main/media/github-textbox.png?raw=true)    
+![Add Wishlist Image](https://github.com/meisrain/dimlist/blob/main/media/github-textbox.png?raw=true)    
 
 
 ## Contributing
