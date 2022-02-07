@@ -5,3 +5,8 @@ description:Thanks to all Jims that help out
 //notes:Masterwork handling, richochet for more range, and an outlaw perk for a gun built for precision kills makes for a fun feedback loop. High Cal loses some stability but who really cares!
 dimwishlist:item=235827225&perks=1926090094,1885400500,1168162263,124408337,186337601
 dimwishlist:item=235827225&perks=1926090094,1561002382,1168162263,124408337,186337601
+
+//Hothead (PvE Greybeard's picks)
+//notes:Explosive light 25% damage increase / BR to 100
+dimwishlist:item=1866778462&perks=1478423395,3796465595,3977735242,1546637391,3803457565
+dimwishlist:item=1866778462&perks=1478423395,3796465595,3977735242,3194351027,758092021
